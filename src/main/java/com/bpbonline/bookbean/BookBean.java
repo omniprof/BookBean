@@ -19,6 +19,7 @@ public class BookBean {
     private double retailPrice;
     private boolean suitableForChildren;    
 
+    // Extra fields
     public String getTitle() {
         return title;
     }
